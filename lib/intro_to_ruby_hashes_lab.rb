@@ -1,6 +1,6 @@
 def my_hash_creator(key, value)
-  {key: "name",
-  value: 20}
+  {:key => "name",
+  :value => 20}
   # return a hash that includes the key and value parameters passed into this method
 end
 
